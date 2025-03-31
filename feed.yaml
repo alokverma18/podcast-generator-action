@@ -1,0 +1,70 @@
+title: The Future in Technology
+subtitle: Exploring the latest trends and innovations
+author: Jane Doe
+description: A deep dive into the future of technology, covering AI, blockchain, and more.
+image: https://example.com/image.jpg
+language: en-us
+category: Technology
+format: audio/mpeg
+link: https://example.com
+item:
+  - title: EP01- The Rise of AI
+    description: An overview of artificial intelligence and its impact on various industries.
+    published: Tue, 01 Jan 2024 10:00:00 GMT
+    file: /audio/ep01.mp3
+    duration: 01:00
+    length: 576,324
+  - title: EP02- Blockchain Beyond Cryptocurrency
+    description: Exploring the applications of blockchain technology beyond Bitcoin.
+    published: Tue, 08 Jan 2024 10:00:00 GMT
+    file: /audio/ep02.mp3
+    duration: 01:15
+    length: 789,456
+  - title: EP03- The Future of Quantum Computing
+    description: A look into quantum computing and its potential to revolutionize technology.
+    published: Tue, 15 Jan 2024 10:00:00 GMT
+    file: /audio/ep03.mp3
+    duration: 01:30
+    length: 912,345
+  - title: EP04- Cybersecurity in the Age of AI
+    description: Discussing the challenges and solutions in cybersecurity with AI advancements.
+    published: Tue, 22 Jan 2024 10:00:00 GMT
+    file: /audio/ep04.mp3
+    duration: 01:20
+    length: 654,321
+  - title: EP05- The Internet of Things (IoT)
+    description: Understanding the impact of IoT on our daily lives and industries.
+    published: Tue, 29 Jan 2024 10:00:00 GMT
+    file: /audio/ep05.mp3
+    duration: 01:10
+    length: 543,210
+  - title: EP06- The Future of Work
+    description: How technology is reshaping the workplace and the future of jobs.
+    published: Tue, 05 Feb 2024 10:00:00 GMT
+    file: /audio/ep06.mp3
+    duration: 01:25
+    length: 678,901
+  - title: EP07- Augmented Reality (AR) and Virtual Reality (VR)
+    description: Exploring the advancements in AR and VR technologies and their applications.
+    published: Tue, 12 Feb 2024 10:00:00 GMT
+    file: /audio/ep07.mp3
+    duration: 01:35
+    length: 789,012
+  - title: EP08- The Ethics of AI
+    description: A discussion on the ethical implications of artificial intelligence.
+    published: Tue, 19 Feb 2024 10:00:00 GMT
+    file: /audio/ep08.mp3
+    duration: 01:50
+    length: 890,123
+  - title: EP09- 5G Technology and Its Impact
+    description: Understanding the implications of 5G technology on communication and connectivity.
+    published: Tue, 26 Feb 2024 10:00:00 GMT
+    file: /audio/ep09.mp3
+    duration: 01:40
+    length: 765,432
+  - title: EP10- The Future of Renewable Energy
+    description: Exploring the advancements in renewable energy technologies and their impact on the environment.
+    published: Tue, 04 Mar 2024 10:00:00 GMT
+    file: /audio/ep10.mp3
+    duration: 01:55
+    length: 876,543
